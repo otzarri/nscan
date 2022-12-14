@@ -1,5 +1,5 @@
-module gitlab.com/josebamartos/nscan
+module github.com/otzarri/nscan
 
 go 1.17
 
-require gitlab.com/josebamartos/wool v0.0.1
+require github.com/otzarri/wool v0.0.1

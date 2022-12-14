@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab.com/josebamartos/nscan/scanner"
-	"gitlab.com/josebamartos/wool"
+	"github.com/otzarri/nscan/scanner"
+	"github.com/otzarri/wool"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"gitlab.com/josebamartos/wool"
+	"github.com/otzarri/wool"
 )
 
 var (

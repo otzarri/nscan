@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"gitlab.com/josebamartos/nscan/conv"
+	"github.com/otzarri/nscan/conv"
 )
 
 // isValidPort returns true if the given `port int` is a valid port number.
